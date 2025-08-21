@@ -1,4 +1,4 @@
-#FLYWAY
+# FLYWAY
 
 ### Parte 1: O que é o Flyway e como ele funciona?
 
